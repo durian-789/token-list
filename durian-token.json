@@ -1,0 +1,9 @@
+{
+  "name": "Durian Token",
+  "symbol": "DUR",
+  "address": "4kNatiWPeSepnHDsNQXSy5ghsethQigevn1J8Ysn3K7s",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/your-github-durian-789/token-list/main/assets/devnet/4kNatiWPeSepnHDsNQXSy5ghsethQigevn1J8Ysn3K7s/logo.png",
+  "tags": ["utility-token"]
+}
+
